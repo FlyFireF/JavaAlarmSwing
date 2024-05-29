@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JavaAlarmSwing">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/JavaAlarmSwing_jar/JavaAlarmSwing.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
